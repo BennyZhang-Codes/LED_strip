@@ -1,0 +1,6 @@
+{
+    "port": "COM5",
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:avrisp",
+    "sketch": "LED_strip_2.0.ino"
+}
